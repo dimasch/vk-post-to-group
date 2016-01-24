@@ -1,0 +1,19 @@
+{
+    "name": "Sportmage/VkSpamBot",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Add your description here",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "codeception/codeception": "*"
+    },
+    "authors":[
+        {
+            "name":"Dmitry Schegolihin",
+            "email":"d.shegolihin@gmail.com"
+        }
+    ],
+    "extra": {
+        "magento-root-dir": "root"
+    }
+}
